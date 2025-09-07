@@ -48,9 +48,10 @@ gemini --include-directories ../lib,../docs
 
 ### - Authentication Options of Gemini CLI
 
-   * 1. OAuth login (Using your Google Account)
-     2. Gemini API Key
-     3. Vertex AI
+1. OAuth login (Using your Google Account)
+   * Individual developers as well as anyone who has a Gemini Code Assist License.
+2. Gemini API Key
+3. Vertex AI
      
 <img width="608" height="395" alt="Image" src="https://github.com/user-attachments/assets/ae61db96-3492-4785-903a-b97ae4ee00b1" />
 
