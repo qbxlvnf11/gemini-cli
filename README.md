@@ -40,11 +40,16 @@ npm install -g @google/gemini-cli@nightly
 ### - Run Gemini CLI
 
 ```
+# Start in current directory
 gemini
+# Include multiple directories
+gemini --include-directories ../lib,../docs
 ```
 
-### - Setup Gemini CLI
+### - Authentication Options of Gemini CLI
 
+   * Install using [Homebrew](https://brew.sh/)
+     
 <img width="608" height="395" alt="Image" src="https://github.com/user-attachments/assets/ae61db96-3492-4785-903a-b97ae4ee00b1" />
 
      
