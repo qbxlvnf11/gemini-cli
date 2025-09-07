@@ -12,7 +12,7 @@ How to Setup & Use (Linux)
 ### 1. Install Gemini CLI
 
    <details>
-   <summary>Install using [Homebrew](https://brew.sh/)</summary>
+   <summary>Install using <a href="https://brew.sh/">Homebrew</a></summary>
      
 ```
 # Install Homebrew
