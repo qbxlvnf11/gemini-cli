@@ -9,7 +9,7 @@ Contents
 How to Setup & Use (Linux)
 =============
 
-### 1. Install Gemini CLI
+### - Install Gemini CLI
 
    <details>
    <summary>Install using <a href="https://brew.sh/">Homebrew</a></summary>
@@ -28,7 +28,7 @@ brew install gemini-cli
    </details>
 
    <details>
-   <summary>Install using [npm](https://www.npmjs.com/)</summary>
+   <summary>Install using <a href="https://www.npmjs.com/">npm</a></summary>
 
 ```
 npm install -g @google/gemini-cli
