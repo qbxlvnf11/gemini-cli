@@ -11,7 +11,8 @@ How to Setup & Use (Linux)
 
 ### 1. Install Gemini CLI
 
-   * Install using [Homebrew](https://brew.sh/)
+   <details>
+   <summary>* Install using [Homebrew](https://brew.sh/)</summary>
      
 ```
 # Install Homebrew
@@ -24,16 +25,17 @@ brew --version
 # Install Gemini CLI
 brew install gemini-cli
 ```
-
+   </details>
+   
    * Install using [npm](https://www.npmjs.com/)
 
 ```
 npm install -g @google/gemini-cli
-# Preview version
+# Install Gemini CLI (Preview version)
 npm install -g @google/gemini-cli@preview
-# Stable version
+# Install Gemini CLI (Stable version)
 npm install -g @google/gemini-cli@latest
-# Nightly version
+# Install Gemini CLI (Nightly version)
 npm install -g @google/gemini-cli@nightly
 ```
 
