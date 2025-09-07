@@ -43,13 +43,17 @@ npm install -g @google/gemini-cli@nightly
    
 ### - Run Gemini CLI
 
+   <details>
+   <summary>Run Commands & Options</summary>
+
 ```
 # Start in current directory
 gemini
 # Include multiple directories
 gemini --include-directories ../lib,../docs
 ```
-
+   </details>
+   
 ### - Authentication Options of Gemini CLI
 
 1. OAuth login (Using your Google Account)
