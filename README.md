@@ -6,7 +6,7 @@ Contents
 #### - [Gemini CLI Git](https://github.com/google-gemini/gemini-cli)
 
 
-How to Setup & Use (Linux)
+How to Setup & Run (Linux, vscode etc.)
 =============
 
 ### - Install Gemini CLI
@@ -41,10 +41,10 @@ npm install -g @google/gemini-cli@nightly
 ```
    </details>
    
-### - Run Gemini CLI
+### - Run Gemini CLI in Terminal
 
    <details>
-   <summary>Run Commands & Options</summary>
+   <summary>Run Commands & Parameters</summary>
 
 ```
 # Start in current directory
@@ -53,7 +53,16 @@ gemini
 gemini --include-directories ../lib,../docs
 ```
    </details>
-   
+
+### - Run Gemini in vscode
+
+   <details>
+   <summary>Run Commands & Options</summary>
+
+   * - Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
+
+   </details>
+
 ### - Authentication Options of Gemini CLI
 
 1. OAuth login (Using your Google Account)
@@ -63,8 +72,13 @@ gemini --include-directories ../lib,../docs
      
 <img width="608" height="395" alt="Image" src="https://github.com/user-attachments/assets/ae61db96-3492-4785-903a-b97ae4ee00b1" />
 
-### - Help
 
+Commands
+=============
+
+   <details>
+   <summary>Help</summary>
+      
 ```
 │ Basics:                                                              │
 │ Add context: Use @ to specify files for context (e.g.,               │
@@ -135,7 +149,10 @@ gemini --include-directories ../lib,../docs
 │                                                                      │
 │ For a full list of shortcuts, see docs/keyboard-shortcuts.md         │
 ```
-     
+
+   </details>
+   
+
 Author
 =============
 
