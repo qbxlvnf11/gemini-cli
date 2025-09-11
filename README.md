@@ -59,10 +59,10 @@ gemini --include-directories ../lib,../docs
    <details>
    <summary>Run Commands</summary>
 
-   * 1. Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
-   * 2. Once the installation is complete, click "Gemini Code Assist - Sign In" in the VS Code to sign in with your Google account.
+   1. Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
+   2. Once the installation is complete, click "Gemini Code Assist - Sign In" in the VS Code to sign in with your Google account.
 
-<img width="1566" height="1203" alt="Image" src="https://github.com/user-attachments/assets/bcefe9aa-0e76-46d0-bf2f-bfd590935336" />
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/bcefe9aa-0e76-46d0-bf2f-bfd590935336" />
 
    </details>
 
