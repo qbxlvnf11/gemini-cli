@@ -6,7 +6,7 @@ Contents
 #### - [Gemini CLI Git](https://github.com/google-gemini/gemini-cli)
 
 
-How to Setup & Run (Linux, vscode etc.)
+How to Setup & Run (Linux, VS Code etc.)
 =============
 
 ### - Install Gemini CLI
@@ -54,16 +54,22 @@ gemini --include-directories ../lib,../docs
 ```
    </details>
 
-### - Run Gemini in vscode
+### - Run Gemini in VS Code
 
    <details>
    <summary>Run Commands & Options</summary>
 
-   * - Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
+   * 1. Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
+   * 2. Once the installation is complete, click "Gemini Code Assist - Sign In" in the VS Code to sign in with your Google account.
+
+<img width="1566" height="1203" alt="Image" src="https://github.com/user-attachments/assets/bcefe9aa-0e76-46d0-bf2f-bfd590935336" />
 
    </details>
 
 ### - Authentication Options of Gemini CLI
+
+   <details>
+   <summary>Details of Authentication Options</summary>
 
 1. OAuth login (Using your Google Account)
    * Individual developers as well as anyone who has a Gemini Code Assist License.
@@ -72,6 +78,8 @@ gemini --include-directories ../lib,../docs
      
 <img width="608" height="395" alt="Image" src="https://github.com/user-attachments/assets/ae61db96-3492-4785-903a-b97ae4ee00b1" />
 
+   </details>
+   
 
 Commands
 =============
