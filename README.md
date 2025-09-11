@@ -57,7 +57,7 @@ gemini --include-directories ../lib,../docs
 ### - Run Gemini in VS Code
 
    <details>
-   <summary>Run Commands & Options</summary>
+   <summary>Run Commands</summary>
 
    * 1. Install [Google Cloud Code](https://marketplace.visualstudio.com/items?itemName=GoogleCloudTools.cloudcode) in Extensions
    * 2. Once the installation is complete, click "Gemini Code Assist - Sign In" in the VS Code to sign in with your Google account.
